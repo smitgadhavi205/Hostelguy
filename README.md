@@ -1,1 +1,3 @@
-# My_project1
+# Hi, I'm Smit Gadhavi
+# Software Engineer
+
